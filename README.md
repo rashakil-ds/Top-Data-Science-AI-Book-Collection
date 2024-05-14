@@ -22,13 +22,13 @@
 
   <h2>Additional Resources</h2>
   <p>We also offer a variety of paid courses on data science on our website. Visit <a href="https://aiquest.org/" target="_blank">AIQuest</a> for more details.</p>
-  <p>For free resources, check out our YouTube channel: <a href="https://www.youtube.com/StudyMart" target="_blank">StudyMart</a>.</p>
+  <p>For free resources, check out our YouTube channel: <a href="https://www.youtube.com/StudyMart" target="_blank">Study Mart</a>.</p>
   <p>Join our Facebook group for more discussions and resources: <a href="https://www.facebook.com/groups/StudyMart" target="_blank">StudyMart Facebook Group</a>.</p>
 
   <footer>
     <p>Visit our <a href="https://aiquest.org/courses" target="_blank">paid course website</a> for more courses on data science.</p>
-    <p>Subscribe to our YouTube channel for free resources: <a href="https://www.youtube.com/aiquest" target="_blank">StudyMart</a>.</p>
-    <p>Join our LinkedIn group: <a href="https://www.linkedin.com/groups/12833804/" target="_blank">StudyMart Facebook Group</a>.</p>
+    <p>Subscribe to our YouTube channel for free resources: <a href="https://www.youtube.com/aiquest" target="_blank">aiQuest Intelligence</a>.</p>
+    <p>Join our LinkedIn group: <a href="https://www.linkedin.com/groups/12833804/" target="_blank">LinkedIn Group</a>.</p>
   </footer>
 </body>
 </html>
