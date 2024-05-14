@@ -26,9 +26,9 @@
   <p>Join our Facebook group for more discussions and resources: <a href="https://www.facebook.com/groups/StudyMart" target="_blank">StudyMart Facebook Group</a>.</p>
 
   <footer>
-    <p>Visit our <a href="https://aiquest.org/" target="_blank">paid course website</a> for more courses on data science.</p>
-    <p>Subscribe to our YouTube channel for free resources: <a href="https://www.youtube.com/StudyMart" target="_blank">StudyMart</a>.</p>
-    <p>Join our Facebook group: <a href="https://www.facebook.com/groups/StudyMart" target="_blank">StudyMart Facebook Group</a>.</p>
+    <p>Visit our <a href="https://aiquest.org/courses" target="_blank">paid course website</a> for more courses on data science.</p>
+    <p>Subscribe to our YouTube channel for free resources: <a href="https://www.youtube.com/aiquest" target="_blank">StudyMart</a>.</p>
+    <p>Join our LinkedIn group: <a href="https://www.linkedin.com/groups/12833804/" target="_blank">StudyMart Facebook Group</a>.</p>
   </footer>
 </body>
 </html>
