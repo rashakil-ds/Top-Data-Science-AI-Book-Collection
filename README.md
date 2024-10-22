@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Top Data Science and AI Book Collection</title>
 </head>
 <body>
   <h1>Top Data Science and AI Book Collection</h1>
